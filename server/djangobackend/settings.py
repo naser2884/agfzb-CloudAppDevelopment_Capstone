@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost", "nassercar.mybluemix.net"]
+ALLOWED_HOSTS = ["localhost", "nassercar.eu-gb.cf.appdomain.cloud"]
 
 
 # Application definition
